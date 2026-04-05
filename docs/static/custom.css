@@ -15,7 +15,6 @@ article {
     }
 }
 
-
 div.admonition p.admonition-title::before {
     font-family: 'Font Awesome 6 Free';
 }
